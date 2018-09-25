@@ -1,0 +1,6 @@
+1. page terbuka dengan lancar, karena tidak ada eror, seharusnya model terbuat
+2.eror karena tidak ada parameter amount
+3.muncul
+4.tidak, karena data masih kosong
+5.muncul
+6.muncul
